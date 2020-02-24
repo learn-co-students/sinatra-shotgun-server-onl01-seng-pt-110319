@@ -3,7 +3,8 @@ require_relative 'config/environment'
 class App < Sinatra::Base
 
   get '/' do 
-    "Welcome to your app!!!! "
+    "does this make shotgun update - i believe so huehuehue"
+    
   end
 
 end
